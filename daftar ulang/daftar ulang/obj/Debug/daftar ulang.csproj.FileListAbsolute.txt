@@ -1,0 +1,8 @@
+C:\daftar ulang\daftar ulang\bin\Debug\daftar ulang.exe.config
+C:\daftar ulang\daftar ulang\bin\Debug\daftar ulang.exe
+C:\daftar ulang\daftar ulang\bin\Debug\daftar ulang.pdb
+C:\daftar ulang\daftar ulang\obj\Debug\daftar_ulang.daftar.resources
+C:\daftar ulang\daftar ulang\obj\Debug\daftar_ulang.Properties.Resources.resources
+C:\daftar ulang\daftar ulang\obj\Debug\daftar ulang.csproj.GenerateResource.Cache
+C:\daftar ulang\daftar ulang\obj\Debug\daftar ulang.exe
+C:\daftar ulang\daftar ulang\obj\Debug\daftar ulang.pdb
